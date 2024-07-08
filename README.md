@@ -1,4 +1,6 @@
 # DEIAJ-Resources
+PLEASE NOTE: This repository is no longer maintained.
+
 This is a repository to house links and materials as DEIAJ resources for the NWFSC community.
 
 
